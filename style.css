@@ -1,0 +1,25 @@
+h1
+{
+    font-family: Impact;
+    color: white;
+}
+div
+{
+    background-color: lightblue; 
+    padding: 20px;   
+    border-radius: 20px;
+}
+body
+{
+    background-image: url("https://th.bing.com/th/id/R.d161ee0535c5ecf9201bd48e38291834?rik=a0fXbZltpKXDBw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fDCWHIOy.jpg&ehk=xEHT6b6qeZLdsz4EsO98DGlNCmtg4PksxJCUPaWbmCw%3d&risl=&pid=ImgRaw&r=0");
+}
+.headings
+{
+    font-family: Impact;
+}
+p
+{
+    font-size: 22px;
+    font-family:'Lucida Sans';
+    line-height: 35px;
+}
